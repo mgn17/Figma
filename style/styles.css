@@ -1,0 +1,74 @@
+div a {
+    font-family: Circular Std;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    margin: 0.5cm;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+
+
+button{
+    border-collapse: separate;
+    width: 180px;
+    height: 45px;
+    background-color: #0f53fa;
+    color: white;
+    border-radius: 9px;
+    margin: 0.5cm;
+}
+
+.title{
+    width: 600px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Title{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 58px;
+    line-height: 64px;
+    text-align: center;
+}
+#Description{
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 30px;
+    text-align: center;
+    color: #7C8087;
+}
+
+.desc{
+    width: 600px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#ghost{
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 20px;
+    color: #8C97AC;
+}
+
+
+
+@font-face{
+    font-family: "Circular Std";
+    src: url("../../Figma_MarkNourallah/style/fonts/Circular Std Font.otf") format("opentype");
+}
+
